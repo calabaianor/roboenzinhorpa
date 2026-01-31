@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "download_url": "https://github.com/calabaianor/roboenzinhorpa/releases/download/1.0/Capa.TJ.Publico.v1.1.exe",
+    "download_url": "https://github.com/calabaianor/roboenzinhorpa/releases/download/1.0/Capa.TJ.Publico.v0.1.exe",
     "clientes": [
         {
             "empresa": "ENZO",
@@ -10,6 +10,7 @@
     ]
 
 }
+
 
 
 
