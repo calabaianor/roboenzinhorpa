@@ -1,6 +1,6 @@
 {
     "version": "1.0",
-    "download_url": "C:\\Users\\Enzo\\Desktop\\Produ\u00e7\u00e3o\\Capa",
+    "download_url": "https://github.com/calabaianor/roboenzinhorpa/releases/download/1.0/appv2capa.exe",
     "clientes": [
         {
             "empresa": "ENZO",
@@ -8,4 +8,5 @@
             "status": "Ativo"
         }
     ]
+
 }
